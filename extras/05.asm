@@ -24,6 +24,3 @@ while:
 cont:
     li a7, 10
     ecall
-
-    
-    
